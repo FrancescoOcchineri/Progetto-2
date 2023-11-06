@@ -1,0 +1,167 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #E9EDEE;
+}
+
+header {
+    background-color: #222F3F;
+    margin-bottom: 100px;
+}
+
+header img {
+    padding: 10px;
+    width: 90px;
+}
+
+nav {
+    background-color: #364759;
+    margin-top: -100px;
+    height: 35px;
+}
+
+ul {
+    font-size: 15px;
+    display: block;
+    list-style-type: none;
+    padding-left: 25px;
+
+}
+
+li {
+    float: left;
+    margin: 10px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+}
+
+#primo {
+    background-color: #F56600;
+    text-align: center;
+    color: white;
+    padding: 10px 622px;
+    margin: 40px 40px;
+    font-size: 15px;
+    white-space: nowrap;
+}
+
+.container1 {
+    background-image: url(../images/bg-image.png);
+    text-align: center;
+    margin: 40px 40px;
+    height: 190px;
+}
+
+.box1 {
+    color: white;
+    padding-top: 50px;
+}
+
+.box1 p{
+    margin-top: 30px;
+}
+
+.box1 h1 {
+    font-size: 30px;
+}
+
+.container2 {
+    background-color: white;
+    margin: 40px 40px;
+}
+
+.container2 a {
+    color: #2a9cc6;
+    text-decoration: none;
+}
+
+.container2 a, p {
+    display: inline-block;
+    margin: 5px 5px;
+    padding: 20px 20px;
+    font-weight: bold;
+}
+
+
+
+.image {
+    display: inline-block;
+    background-size: contain;
+    margin: 40px 40px;
+}
+
+.image img {
+    width: 310px;
+    height: 400px;
+    margin: 0 10px;
+    object-fit: cover;
+    border-radius: 10%;
+    box-shadow: 2px 2px 15px grey;
+}
+
+.container3{
+    margin: 40px 40px;
+    text-align: center;
+}
+
+#img9 {
+    width: 1440px;
+
+}
+
+.container3 a {
+    text-decoration: none;
+    color: #2a9cc6;
+}
+
+.container3 a, p {
+    display: inline-block;
+    margin: 5px 10px;
+
+}
+
+.container4{
+    margin: 40px 40px;
+    text-align: center;
+}
+
+#img10 {
+    width: 1440px;
+
+}
+
+.container4 a {
+    text-decoration: none;
+    color: #2a9cc6;
+}
+
+.container4 a, p {
+    display: inline-block;
+    margin: 5px 10px;
+
+}
+
+.a {
+    background-color: #364759;
+    text-align: center;
+    height: 35px;
+    padding-top: 10px;
+}
+
+footer a {
+    color: white;
+    
+}
+
+.img {
+    background-color: #222F3F;
+    text-align: center;
+    padding-bottom: 50px;
+    padding-top: 50px;;
+}
+
+footer img {
+    width: 150px;
+}
